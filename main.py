@@ -1,3 +1,5 @@
+#test func for git
+
 from random import randint
 
 
