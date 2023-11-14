@@ -1,2 +1,1 @@
-# git_home_1
-this repo created in site
+This file for home work for advanced git course
